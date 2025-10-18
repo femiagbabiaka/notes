@@ -1,0 +1,7 @@
+# Moonshot ideas
+A random place to put some ideas.
+
+* LLM
+** Cron Tool Calling
+A long running llm inference server should have access to a tool that allows it to create and manage cronjobs.
+Example usage: Given a list of stocks, the llm generates a cron that will request news articles related to those stocks daily, using a more capable model.
