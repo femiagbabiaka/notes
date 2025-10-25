@@ -1,0 +1,6 @@
+* Just some notes.
+
+Currently:
+
+- [[./IDEAS.org][Ideas I've had, many dumb]]
+- [[./COOL_LINKS.org][Cool links I've found and want to save.]]
