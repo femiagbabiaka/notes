@@ -1,0 +1,13 @@
+* Just a repository of links I thought were cool
+** Linux
+*** Linux Capabilities Revisited
+[[https://dfir.ch/posts/linux_capabilities/][Article Link]]
+Attempts to distill truths about Linux capabilities.
+** Programming
+*** Computer, Enhance
+[[https://www.computerenhance.com/p/table-of-contents][Article Link]]
+A series by Casey Muratori about writing performant programs.
+** Rust
+*** How to Avoid Fighting Rust's Borrow Checker
+[[https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker][Article Link]]
+Very interesting summary of strategies to avoid fighting the borrow checker in Rust, which is one of the things I believe causes most people to opine that Rust isn't "fun".
