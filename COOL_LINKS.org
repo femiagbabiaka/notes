@@ -11,3 +11,7 @@ A series by Casey Muratori about writing performant programs.
 *** How to Avoid Fighting Rust's Borrow Checker
 [[https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker][Article Link]]
 Very interesting summary of strategies to avoid fighting the borrow checker in Rust, which is one of the things I believe causes most people to opine that Rust isn't "fun".
+** Life
+*** Willingness to look stupid
+Dan Luu is the goat, I reread this regularly. Being willing to look dumb is a life hack
+[[https://danluu.com/look-stupid/][Article Link]]
